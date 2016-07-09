@@ -18,11 +18,19 @@ List of Google Play Services available here and their dependencies:
 
 ---
 
-###### Google Cast Framework
-- [dandar3/android-google-play-services-cast-framework](https://github.com/dandar3/android-google-play-services-cast-framework)
- - [dandar3/android-google-play-services-cast](https://github.com/dandar3/android-google-play-services-cast)
- ... (see above) ...
+**Google Cast Framework**
+[dandar3/android-google-play-services-cast-framework](https://github.com/dandar3/android-google-play-services-cast-framework)
+ - [dandar3/android-google-play-services-cast](https://github.com/dandar3/android-google-play-services-cast)<br/>
+ - ... see above ...
+
+--
 
 ###### Google Mobile Ads
----
+[dandar3/android-google-play-services-ads](https://github.com/dandar3/android-google-play-services-ads)
+  -[android-google-play-services-ads-lite](https://github.com/dandar3/android-google-play-services-ads-lite)
+   - [android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement)
+    - [android-support-v4](https://github.com/dandar3/android-support-v4)
+     - [dandar3/android-support-annotations](https://github.com/dandar3/android-support-annotations)
+
+--
 
