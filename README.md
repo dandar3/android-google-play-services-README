@@ -3,7 +3,6 @@ Full list of Google Play Services libraries:<br/>
 **Add Google Play Services to Your Project**<br/>
 (Android Studio) **Table 1**<br/>
 https://developers.google.com/android/guides/setup
-
 --
 
 Google Play Services 9.2.0 components available here and libraries you need to take:
@@ -43,7 +42,6 @@ Google Play Services 9.2.0 components available here and libraries you need to t
 (https://github.com/dandar3/android-support-annotations/archive/9.2.0.zip)
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/9.2.0)
-
 --
 
 **Google Cast**<br/>
@@ -86,8 +84,7 @@ Google Play Services 9.2.0 components available here and libraries you need to t
 8. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
 (https://github.com/dandar3/android-support-annotations/archive/9.2.0.zip)
 [android-support-annotations]
-(https://github.com/dandar3/android-support-annotations/tree/9.2.0)<br/>
-
+(https://github.com/dandar3/android-support-annotations/tree/9.2.0)
 --
 
 **Google Cast Framework**<br/>
@@ -135,8 +132,7 @@ Google Play Services 9.2.0 components available here and libraries you need to t
 9. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
 (https://github.com/dandar3/android-support-annotations/archive/9.2.0.zip)
 [android-support-annotations]
-(https://github.com/dandar3/android-support-annotations/tree/9.2.0)<br/>
-
+(https://github.com/dandar3/android-support-annotations/tree/9.2.0)
 --
 
 **Google Mobile Ads**<br/>
@@ -174,8 +170,7 @@ Google Play Services 9.2.0 components available here and libraries you need to t
 7. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
 (https://github.com/dandar3/android-support-annotations/archive/9.2.0.zip)
 [android-support-annotations]
-(https://github.com/dandar3/android-support-annotations/tree/9.2.0)<br/>
-
+(https://github.com/dandar3/android-support-annotations/tree/9.2.0)
 --
 
 <!--
