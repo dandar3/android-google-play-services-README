@@ -9,7 +9,7 @@ https://developers.google.com/android/guides/setup
 Google Play Services 9.2.0 components available here and libraries you need to take:
 
 **Google Analytics**<br/>
-- [![download]https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png)(https://github.com/dandar3/android-google-play-services-analytics-impl/archive/9.2.0.zip)) [android-google-play-services-analytics](https://github.com/dandar3/android-google-play-services-analytics/tree/9.2.0)
+- [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" />](https://github.com/dandar3/android-google-play-services-analytics-impl/archive/9.2.0.zip) [android-google-play-services-analytics](https://github.com/dandar3/android-google-play-services-analytics/tree/9.2.0)
 - [android-google-play-services-analytics-impl](https://github.com/dandar3/android-google-play-services-analytics-impl/tree/9.2.0)
 - [android-google-play-services-base](https://github.com/dandar3/android-google-play-services-base/tree/9.2.0)
 - [android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-tasks/tree/9.2.0)
