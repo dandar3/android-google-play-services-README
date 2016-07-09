@@ -1,2 +1,5 @@
-# android-google-play-services-HELP
-A README project to show Android Google Play Services library dependencies.
+##### Add Google Play Services to Your Project<br/>
+Android Studio - *Table 1*<br/>
+https://developers.google.com/android/guides/setup
+
+
