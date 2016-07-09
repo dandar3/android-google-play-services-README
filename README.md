@@ -3,6 +3,7 @@ Full list of Google Play Services libraries:<br/>
 **Add Google Play Services to Your Project**<br/>
 (Android Studio) **Table 1**<br/>
 https://developers.google.com/android/guides/setup
+
 --
 
 Google Play Services 9.2.0 components available here and libraries you need to take:
@@ -42,6 +43,7 @@ Google Play Services 9.2.0 components available here and libraries you need to t
 (https://github.com/dandar3/android-support-annotations/archive/9.2.0.zip)
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/9.2.0)<br/>
+
 --
 
 **Google Cast**<br/>
@@ -85,6 +87,7 @@ Google Play Services 9.2.0 components available here and libraries you need to t
 (https://github.com/dandar3/android-support-annotations/archive/9.2.0.zip)
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/9.2.0)<br/>
+
 --
 
 **Google Cast Framework**<br/>
@@ -133,6 +136,7 @@ Google Play Services 9.2.0 components available here and libraries you need to t
 (https://github.com/dandar3/android-support-annotations/archive/9.2.0.zip)
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/9.2.0)<br/>
+
 --
 
 **Google Mobile Ads**<br/>
@@ -171,6 +175,7 @@ Google Play Services 9.2.0 components available here and libraries you need to t
 (https://github.com/dandar3/android-support-annotations/archive/9.2.0.zip)
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/9.2.0)<br/>
+
 --
 
 <!--
