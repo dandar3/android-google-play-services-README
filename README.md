@@ -10,8 +10,8 @@ List of Google Play Services available here and their dependencies:
 
 | Google Analytics |
 | :------- |
-| <a href="https://github.com/dandar3/android-google-play-services-analytics/" target="_blank">dandar3/android-google-play-services-analytics</a><ul><li>[dandar3/android-google-play-services-analytics-impl](https://github.com/dandar3/android-google-play-services-analytics-impl/)<ul><li>[dandar3/android-google-play-services-base](https://github.com/dandar3/android-google-play-services-base/)<li>[dandar3/android-google-play-services-base](https://github.com/dandar3/android-google-play-services-base/) |
+| <a href="https://github.com/dandar3/android-google-play-services-analytics/" target="_blank">dandar3/android-google-play-services-analytics</a><ul><li>[dandar3/android-google-play-services-analytics-impl](https://github.com/dandar3/android-google-play-services-analytics-impl)<ul><li>[dandar3/android-google-play-services-base](https://github.com/dandar3/android-google-play-services-base)<li>[dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement) |
 
 | Google Cast |
 | :------- |
-| [dandar3/android-google-play-services-cast](https://github.com/dandar3/android-google-play-services-cast/)
+| [dandar3/android-google-play-services-cast](https://github.com/dandar3/android-google-play-services-cast)<ul><li><li>[dandar3/android-google-play-services-base](https://github.com/dandar3/android-google-play-services-base)<li>[dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement)<li>[dandar3/androidandroid-support-v7-mediarouter](https://github.com/dandar3/android-support-v7-mediarouter)<ul><li>[dandar3/android-support-v7-appcompat](https://github.com/dandar3/android-support-v7-appcompat)<ul><li>[dandar3/android-support-v4](https://github.com/dandar3/android-support-v4)<ul><li>[dandar3/android-support-annotations](https://github.com/dandar3/android-support-annotations)</ul><li>[]()</ul><li>[dandar3/android-support-v7-palette](https://github.com/dandar3/android-support-v7-palette)
