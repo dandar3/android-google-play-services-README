@@ -8,7 +8,7 @@ https://developers.google.com/android/guides/setup
 
 Google Play Services 9.2.1 components available here and libraries you need to take:
 
-**Google Analytics**<br/>
+#### Google Analytics
 &#160;&#160;&#160;&#160;&#160;
 1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
 (https://github.com/dandar3/android-google-play-services-analytics/archive/9.2.1.zip)
@@ -58,9 +58,7 @@ Google Play Services 9.2.1 components available here and libraries you need to t
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/24.1.1)<br/>
 
---
-
-**Google Cast**<br/>
+#### Google Cast
 &#160;&#160;&#160;&#160;&#160;
 1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
 (https://github.com/dandar3/android-google-play-services-cast/archive/9.2.1.zip)
@@ -118,9 +116,7 @@ Google Play Services 9.2.1 components available here and libraries you need to t
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/24.1.1)<br/>
 
---
-
-**Google Cast Framework**<br/>
+#### Google Cast Framework
 &#160;&#160;&#160;&#160;&#160;
 1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
 (https://github.com/dandar3/android-google-play-services-cast-framework/archive/9.2.1.zip)
@@ -185,9 +181,7 @@ Google Play Services 9.2.1 components available here and libraries you need to t
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/24.1.1)<br/>
 
---
-
-**Google Mobile Ads**<br/>
+#### Google Mobile Ads
 &#160;&#160;&#160;&#160;&#160;
 1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
 (https://github.com/dandar3/android-google-play-services-ads/archive/9.2.1.zip)
@@ -237,8 +231,6 @@ Google Play Services 9.2.1 components available here and libraries you need to t
 (https://github.com/dandar3/android-support-annotations/tags/24.1.1)
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/24.1.1)<br/>
-
---
 
 <!--
  TEMPLATE
