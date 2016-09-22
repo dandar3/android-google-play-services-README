@@ -20,7 +20,7 @@ Google Play Services 9.4.0 components available here and libraries you need to t
 (https://github.com/dandar3/android-google-play-services-auth-base/archive/9.4.0.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN tag URL (right-click  to copy location)" align="top" />]
 (https://github.com/dandar3/android-google-play-services-auth-base/tags/9.4.0)
-[android-google-play-services-auth-base](https://github.com/dandar3/android-google-play-services-auth-base/tree/9.4.0)<br/>-
+[android-google-play-services-auth-base](https://github.com/dandar3/android-google-play-services-auth-base/tree/9.4.0)<br/>
 &#160;&#160;&#160;&#160;&#160;
 3. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
 (https://github.com/dandar3/android-google-play-services-base/archive/9.4.0.zip)
