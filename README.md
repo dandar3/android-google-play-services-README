@@ -8,6 +8,55 @@ https://developers.google.com/android/guides/setup
 
 Google Play Services 9.4.0 components available here and libraries you need to take:
 
+#### Google Account Login
+&#160;&#160;&#160;&#160;&#160;
+1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
+(https://github.com/dandar3/android-google-play-services-auth/archive/9.4.0.zip)
+[<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN tag URL (right-click  to copy location)" align="top" />]
+(https://github.com/dandar3/android-google-play-services-auth/tags/9.4.0)
+[android-google-play-services-auth](https://github.com/dandar3/android-google-play-services-auth/tree/9.4.0)<br/>
+&#160;&#160;&#160;&#160;&#160;
+2. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
+(https://github.com/dandar3/android-google-play-services-auth-base/archive/9.4.0.zip)
+[<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN tag URL (right-click  to copy location)" align="top" />]
+(https://github.com/dandar3/android-google-play-services-auth-base/tags/9.4.0)
+[android-google-play-services-auth-base](https://github.com/dandar3/android-google-play-services-auth-base/tree/9.4.0)<br/>-
+&#160;&#160;&#160;&#160;&#160;
+3. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
+(https://github.com/dandar3/android-google-play-services-base/archive/9.4.0.zip)
+[<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN tag URL (right-click  to copy location)" align="top" />]
+(https://github.com/dandar3/android-google-play-services-base/tags/9.4.0)
+[android-google-play-services-base]
+(https://github.com/dandar3/android-google-play-services-base/tree/9.4.0)<br/>
+&#160;&#160;&#160;&#160;&#160;
+4. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
+(https://github.com/dandar3/android-google-play-services-basement/archive/9.4.0.zip)
+[<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN tag URL (right-click  to copy location)" align="top" />]
+(https://github.com/dandar3/android-google-play-services-basement/tags/9.4.0)
+[android-google-play-services-basement]
+(https://github.com/dandar3/android-google-play-services-basement/tree/9.4.0)<br/>
+&#160;&#160;&#160;&#160;&#160;
+5. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
+(https://github.com/dandar3/android-google-play-services-tasks/archive/9.4.0.zip)
+[<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN tag URL (right-click  to copy location)" align="top" />]
+(https://github.com/dandar3/android-google-play-services-tasks/tags/9.4.0)
+[android-google-play-services-tasks] 
+(https://github.com/dandar3/android-google-play-services-tasks/tree/9.4.0)<br/>
+&#160;&#160;&#160;&#160;&#160;
+6. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
+(https://github.com/dandar3/android-support-v4/archive/24.1.1.zip)
+[<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN tag URL (right-click  to copy location)" align="top" />]
+(https://github.com/dandar3/android-support-v4/tags/24.1.1)
+[android-support-v4]
+(https://github.com/dandar3/android-support-v4/tree/24.1.1)<br/>
+&#160;&#160;&#160;&#160;&#160;
+7. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
+(https://github.com/dandar3/android-support-annotations/archive/24.1.1.zip)
+[<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN tag URL (right-click  to copy location)" align="top" />]
+(https://github.com/dandar3/android-support-annotations/tags/24.1.1)
+[android-support-annotations]
+(https://github.com/dandar3/android-support-annotations/tree/24.1.1)<br/>
+
 #### Google Analytics
 &#160;&#160;&#160;&#160;&#160;
 1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
