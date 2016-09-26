@@ -13,7 +13,7 @@ https://developers.google.com/android/guides/setup
 
 Google Play Services 9.6.0 components available here and libraries you need to take:
 
-#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-v7-appcompat/24.2.0/.projectset) &#160;Google Account Login
+#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-google-play-services-auth/9.6.0/.projectset) &#160;Google Account Login
 &#160;&#160;&#160;&#160;&#160;
 &#160;&#160;1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
 (https://github.com/dandar3/android-google-play-services-auth/archive/9.6.0.zip)
@@ -47,6 +47,7 @@ Google Play Services 9.6.0 components available here and libraries you need to t
 (https://github.com/dandar3/android-google-play-services-tasks/tags/9.6.0)
 [android-google-play-services-tasks] 
 (https://github.com/dandar3/android-google-play-services-tasks/tree/9.6.0)<br/>
+&#160;&#160;&#160;&#160;&#160;
 &#160;&#160;6. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-v4/archive/24.2.0.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
