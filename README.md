@@ -1,3 +1,8 @@
+## Work In Progress - Updating to Google Play Service 9.6.0
+## DO NOT DOWNLOAD YET
+
+--
+
 Full list of Google Play Services libraries:<br/>
 
 **Add Google Play Services to Your Project**<br/>
