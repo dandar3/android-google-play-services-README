@@ -450,3 +450,22 @@ Google Play Services 9.6.0 components available here and libraries you need to t
 [PROJECT]
 (https://github.com/dandar3/PROJECT/tree/VERSION)<br/>
  -->
+
+### Guides
+ 
+- **Install SDK Platform & Build Tools 24.x.x**<br/>
+<br/>
+<img src="https://raw.github.com/wiki/dandar3/android-support-README/Installing Android SDK Platform & Build Tools 24.x.x.png" />
+
+- **Install Android 7.0 (API 24) SDK**<br/>
+<br/>
+<img src="https://raw.github.com/wiki/dandar3/android-support-README/Installing Android 7.0 (API 24) SDK.png" />
+ 
+- **(YouTube) How to Install Subversive SVN Plug-In in Eclipse - Official Guide**<br/>
+</br>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/04L4rkykWZw/0.jpg)](http://www.youtube.com/watch?v=04L4rkykWZw)
+
+- **(YouTube) Import a Team Project Set into Eclipse**<br/>
+  Note the links on the <img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" align="top" /> icons in front of each group.<br/>
+<br/>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/t757XHPo2ZQ/0.jpg)](https://www.youtube.com/watch?v=t757XHPo2ZQ)
