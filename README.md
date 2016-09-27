@@ -335,7 +335,7 @@ Google Play Services 9.6.0 components available here and libraries you need to t
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
 (https://github.com/dandar3/android-support-core-ui/tags/24.2.0)
 [android-support-core-ui](https://github.com/dandar3/android-support-core-ui/tree/24.2.0)<br/>
-&#160;&#160;&#160;&#160;&#160;&#160;
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;
 9. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library android-support-core-utils ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-core-utils/archive/24.2.0.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
