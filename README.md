@@ -465,7 +465,7 @@ Google Play Services 9.6.0 components available here and libraries you need to t
 </br>
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/04L4rkykWZw/0.jpg)](http://www.youtube.com/watch?v=04L4rkykWZw)
 
-- **(YouTube) Import a Team Project Set into Eclipse**<br/>
+- **(YouTube) How to download Android libraries from GitHub/dandar3 repositories**<br/>
   Note the links on the <img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" align="top" /> icons in front of each group.<br/>
 <br/>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/t757XHPo2ZQ/0.jpg)](https://www.youtube.com/watch?v=t757XHPo2ZQ)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ytRSnjp56tA/0.jpg)](https://www.youtube.com/watch?v=ytRSnjp56tA)
