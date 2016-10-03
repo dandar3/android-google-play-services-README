@@ -236,16 +236,16 @@ Google Play Services 9.6.0 components available here and libraries you need to t
 (https://github.com/dandar3/android-support-v7-palette/tree/24.2.0)<br/>
 &#160;&#160;&#160;&#160;&#160;
 11. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library android-support-v4 ZIP (click to download)" align="top" />]
-(https://github.com/dandar3/android-android-support-v4/archive/24.2.0.zip)
+(https://github.com/dandar3/android-support-v4/archive/24.2.0.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
-(https://github.com/dandar3/android-android-support-v4/tags/24.2.0)
-[android-android-support-v4](https://github.com/dandar3/android-android-support-v4/tree/24.2.0)<br/>
+(https://github.com/dandar3/android-support-v4/tags/24.2.0)
+[android-support-v4](https://github.com/dandar3/android-support-v4/tree/24.2.0)<br/>
 &#160;&#160;&#160;&#160;&#160;
 12. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library android-support-annotations ZIP (click to download)" align="top" />]
-(https://github.com/dandar3/android-android-support-annotations/archive/24.2.0.zip)
+(https://github.com/dandar3/android-support-annotations/archive/24.2.0.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
-(https://github.com/dandar3/android-android-support-annotations/tags/24.2.0)
-[android-android-support-annotations](https://github.com/dandar3/android-android-support-annotations/tree/24.2.0)<br/>
+(https://github.com/dandar3/android-support-annotations/tags/24.2.0)
+[android-support-annotations](https://github.com/dandar3/android-support-annotations/tree/24.2.0)<br/>
 &#160;&#160;&#160;&#160;&#160;
 13. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library android-support-compat ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-compat/archive/24.2.0.zip)
