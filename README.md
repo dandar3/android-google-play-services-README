@@ -1,8 +1,8 @@
-Full list of Google Play Services libraries:<br/>
+**Google Play Services - Overview**<br/>
+https://developers.google.com/android/guides/overview
 
-**Add Google Play Services to Your Project**<br/>
-(Android Studio) **Table 1**<br/>
-https://developers.google.com/android/guides/setup
+**Google Play Services - Changelog**<br/>
+https://developers.google.com/android/guides/releases#october_2016_-_v98
 
 --
 
