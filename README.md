@@ -1,7 +1,7 @@
 **Google Play Services - Overview**<br/>
 https://developers.google.com/android/guides/overview
 
-**Google Play Services - Changelog**<br/>
+**Google Play Services - Release Notes**<br/>
 https://developers.google.com/android/guides/releases#october_2016_-_v98
 
 --
