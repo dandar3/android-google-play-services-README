@@ -137,19 +137,14 @@ Google Play Services 10.2.0 components available here and libraries you need to 
 
 ### Guides
  
-- **Install SDK Platform & Build Tools 25.2.0**<br/>
-<br/>
+#### Install SDK Platform & Build Tools 25.2.0
 <img src="https://raw.github.com/wiki/dandar3/android-support-README/Installing Android SDK Platform & Build Tools 25.x.x.png" />
 
-- **Install Android 7.1 (API 25) SDK**<br/>
-<br/>
+#### Install Android 7.1 (API 25) SDK
 <img src="https://raw.github.com/wiki/dandar3/android-support-README/Installing Android 7.1 (API 25) SDK.png" />
  
-- **(YouTube) How to Install Subversive SVN Plug-In in Eclipse - Official Guide**<br/>
-</br>
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/04L4rkykWZw/0.jpg)](http://www.youtube.com/watch?v=04L4rkykWZw)
+#### (YouTube) How to Install Subversive SVN Plug-In in Eclipse - Official Guide
+<a href="http://www.youtube.com/watch?v=04L4rkykWZw" target="_blank"><img src="http://img.youtube.com/vi/04L4rkykWZw/0.jpg" /></a>
 
-- **(YouTube) How to import Android libraries into your Eclipse workspace**<br/>
-  Note the links on the <img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" align="top" /> icons in front of each group.<br/>
-<br/>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ytRSnjp56tA/0.jpg)](https://www.youtube.com/watch?v=ytRSnjp56tA)
+#### (YouTube) How to import Android libraries into your Eclipse workspace
+<a href="http://www.youtube.com/watch?v=ytRSnjp56tA" target="_blank"><img src="http://img.youtube.com/vi/ytRSnjp56tA/0.jpg" /></a>
