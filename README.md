@@ -10,9 +10,7 @@ Google Play Services 10.2.0 components available here and libraries you need to 
 
 #### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />](https://raw.githubusercontent.com/dandar3/android-google-play-services-auth/10.2.0/.projectset) &#160;Google Account Login
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;
-1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />](https://github.com/dandar3/android-google-play-services-auth/archive/10.2.0.zip)
-[<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN tag URL (right-click  to copy location)" align="top" />](https://github.com/dandar3/android-google-play-services-auth/tags/10.2.0)
-[android-google-play-services-auth](https://github.com/dandar3/android-google-play-services-auth/tree/10.2.0)<br/>
+1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />](https://github.com/dandar3/android-google-play-services-auth/archive/10.2.0.zip) [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN tag URL (right-click  to copy location)" align="top" />](https://github.com/dandar3/android-google-play-services-auth/tags/10.2.0) [android-google-play-services-auth](https://github.com/dandar3/android-google-play-services-auth/tree/10.2.0)
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;
 2. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />](https://github.com/dandar3/android-google-play-services-auth-base/archive/10.2.0.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN tag URL (right-click  to copy location)" align="top" />](https://github.com/dandar3/android-google-play-services-auth-base/tags/10.2.0)
@@ -28,8 +26,7 @@ Google Play Services 10.2.0 components available here and libraries you need to 
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;
 5. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />](https://github.com/dandar3/android-google-play-services-tasks/archive/10.2.0.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN tag URL (right-click  to copy location)" align="top" />](https://github.com/dandar3/android-google-play-services-tasks/tags/10.2.0)
-[android-google-play-services-tasks] 
-(https://github.com/dandar3/android-google-play-services-tasks/tree/10.2.0)<br/>
+[android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-tasks/tree/10.2.0)<br/>
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;
 6. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />](https://github.com/dandar3/android-support-v4/archive/25.0.1.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />](https://github.com/dandar3/android-support-v4/tags/25.0.1)
@@ -83,8 +80,7 @@ Google Play Services 10.2.0 components available here and libraries you need to 
 &#160;&#160;&#160;&#160;&#160;
 &#160;&#160;6. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />](https://github.com/dandar3/android-google-play-services-tasks/archive/10.2.0.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN tag URL (right-click  to copy location)" align="top" />](https://github.com/dandar3/android-google-play-services-tasks/tags/10.2.0)
-[android-google-play-services-tasks] 
-(https://github.com/dandar3/android-google-play-services-tasks/tree/10.2.0)<br/>
+[android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-tasks/tree/10.2.0)<br/>
 &#160;&#160;&#160;&#160;&#160;
 &#160;&#160;7. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />](https://github.com/dandar3/android-support-v4/archive/25.0.1.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />](https://github.com/dandar3/android-support-v4/tags/25.0.1)
