@@ -36,3 +36,6 @@ Google Play Services components available and libraries you need to take:
 
 ### 2. (YouTube) How to import Android libraries into your Eclipse workspace
 <a href="http://www.youtube.com/watch?v=ytRSnjp56tA" target="_blank"><img src="http://img.youtube.com/vi/ytRSnjp56tA/0.jpg" /></a>
+
+### 3. Enable Android Manifest merger
+<a href="https://dandar3.blogspot.com/2019/12/eclipse-android-manifest-merger.html" target="_blank">https://dandar3.blogspot.com/2019/12/eclipse-android-manifest-merger.html</a>
