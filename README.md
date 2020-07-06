@@ -16,6 +16,7 @@ Google Play Services components available and libraries you need to take:
 | API                                       | Version | Library |
 | ---                                       | ---     | ---     |
 | Google Account Login                      | 17.0.0  | [<img src="https://goo.gl/1VmF4W" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-google-play-services-auth/17.0.0/.projectset)             [android-google-play-services-auth](https://github.com/dandar3/android-google-play-services-auth/tree/17.0.0)                       |
+| Google Sign In                            | 17.0.0  | [<img src="https://goo.gl/1VmF4W" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-google-play-services-identity/17.0.0/.projectset)         [android-google-play-services-auth](https://github.com/dandar3/android-google-play-services-identity/tree/17.0.0)                   |
 | Google Analytics                          | 17.0.0  | [<img src="https://goo.gl/1VmF4W" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-google-play-services-analytics/17.0.0/.projectset)        [android-google-play-services-analytics](https://github.com/dandar3/android-google-play-services-analytics/tree/17.0.0)             |
 | Google Cast                               | 18.0.0  | [<img src="https://goo.gl/1VmF4W" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-google-play-services-cast-framework/18.0.0/.projectset)   [android-google-play-services-cast-framework](https://github.com/dandar3/android-google-play-services-cast-framework/tree/18.0.0)   |
 | Google Drive                              | 17.0.0  | [<img src="https://goo.gl/1VmF4W" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-google-play-services-drive/17.0.0/.projectset)            [android-google-play-services-drive](https://github.com/dandar3/android-google-play-services-drive/tree/17.0.0)                     |
@@ -27,10 +28,10 @@ Google Play Services components available and libraries you need to take:
 | Google Places                             | 17.0.0  | [<img src="https://goo.gl/1VmF4W" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-google-play-services-places/17.0.0/.projectset)           [android-google-play-services-places](https://github.com/dandar3/android-google-play-services-places/tree/17.0.0)                   |
 | Mobile Vision                             | 19.0.0  | [<img src="https://goo.gl/1VmF4W" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-google-play-services-vision/19.0.0/.projectset)           [android-google-play-services-vision](https://github.com/dandar3/android-google-play-services-vision/tree/19.0.0)                   |
 
-### How to download & import
+## How to download & import
  
-#### (YouTube) How to Install Subversive SVN Plug-In in Eclipse
-<a href="http://www.youtube.com/watch?v=04L4rkykWZw" target="_blank"><img src="http://img.youtube.com/vi/04L4rkykWZw/0.jpg" /></a>
+### 1. Eclipse Subversive (SVN) plugin installation
+  <a href="https://dandar3.blogspot.com/2019/12/eclipse-subversive-svn-plugin.html" target="_blank">https://dandar3.blogspot.com/2019/12/eclipse-subversive-svn-plugin.html</a>
 
-#### (YouTube) How to import Android libraries into your Eclipse workspace
+### 2. (YouTube) How to import Android libraries into your Eclipse workspace
 <a href="http://www.youtube.com/watch?v=ytRSnjp56tA" target="_blank"><img src="http://img.youtube.com/vi/ytRSnjp56tA/0.jpg" /></a>
