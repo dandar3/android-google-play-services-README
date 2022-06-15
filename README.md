@@ -39,3 +39,6 @@ Google Play Services components available and libraries you need to take:
 
 ### 3. Enable Android Manifest merger
 <a href="https://dandar3.blogspot.com/2019/12/eclipse-android-manifest-merger.html" target="_blank">https://dandar3.blogspot.com/2019/12/eclipse-android-manifest-merger.html</a>
+
+### 4. Update `dx.jar` to fix `Dx unsupported class file version 52.0`
+<a href="https://dandar3.blogspot.com/2022/06/updating-dxjar-library-to-fix-dx.html" target="_blank">https://dandar3.blogspot.com/2022/06/updating-dxjar-library-to-fix-dx.html</a>
